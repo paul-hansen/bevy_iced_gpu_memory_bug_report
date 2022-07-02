@@ -4,4 +4,5 @@ The bug is reported here: https://github.com/tasgon/bevy_iced/issues/1
 
 Simply run `cargo run` from the project root and click "pick color" for your GPU memory to start rising.
 
-./docs/bevy_iced_color_picker.mp4
+https://user-images.githubusercontent.com/7019130/177007377-fa8b99ad-bf77-4a3d-a753-2b5fa42fb611.mp4
+
